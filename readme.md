@@ -1,0 +1,1 @@
+using sql server and qt to complete library system, including borrow and return book, different people have different function, administors have highest athority. which means, administors have work at pushing books into library and get charge in the library-card.
